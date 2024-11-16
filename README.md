@@ -1,5 +1,3 @@
-# 🌟 Hello Everyone! 🌟
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=800080&center=true&vCenter=true&width=500&lines=Welcome+to+my+world!🗺️)
 ## 👋 Hi there, I'm Lulzim!
 
