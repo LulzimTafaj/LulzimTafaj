@@ -70,7 +70,7 @@ I'm a **Full Stack Developer** passionate about building scalable, high-performa
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LulzimTafaj&show_icons=true&hide_title=true&hide=prs&theme=radical)
 
 ---
 
