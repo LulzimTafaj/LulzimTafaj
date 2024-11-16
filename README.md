@@ -3,7 +3,7 @@
 
 I'm a **Full Stack Developer** passionate about building scalable, high-performance web applications. I thrive on solving complex problems and crafting seamless user experiences.
 
-## 🀄 **What I do:
+## 🀄 **What I do:**
 - I love bringing ideas to life, whether it's by developing dynamic web apps or optimizing systems for better performance.
 - I work closely with teams to turn business goals into technical solutions that drive growth and enhance user satisfaction.
 - Every project I work on is an opportunity to learn, grow, and push the boundaries of what's possible.
