@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=800080&center=true&vCenter=true&width=500&lines=Welcome+to+my+world!🗺️)
-## 👋 Hi there, I'm Lulzim!
+## 👋 Hi there, I'm Lulzim.
 
 I'm a **Full Stack Developer** passionate about building scalable, high-performance web applications. I thrive on solving complex problems and crafting seamless user experiences.
 
@@ -14,12 +13,8 @@ I'm a **Full Stack Developer** passionate about building scalable, high-performa
 - Staying ahead in the fast-evolving tech world.
 
 ## 📚 **Currently Learning**:  
-- Databricks 
 - TensorFlow & PyTorch
 - AWS Solutions Architect Associate Certificate  
-
-## 💾 **Future Aspirations**:  
-- Expertise in **AI**, **Data Engineering**, and **Cloud Computing**
 
 ---
 
