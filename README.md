@@ -13,8 +13,8 @@ I'm a **Full Stack Developer** passionate about building scalable, high-performa
 - Staying ahead in the fast-evolving tech world.
 
 ## **Currently Learning**:  
-- TensorFlow & PyTorch
-- AWS Solutions Architect Associate Certificate  
+- TensorFlow
+- Data Engineering
 
 ---
 
@@ -63,5 +63,5 @@ I'm a **Full Stack Developer** passionate about building scalable, high-performa
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lulzim-tafaj/)
-- 📧 Email me at [luitafaj23@gmail.com](mailto:luitafaj23@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lulzim-tafaj/)
+- Email me at [luitafaj23@gmail.com](mailto:luitafaj23@gmail.com)
